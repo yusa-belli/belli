@@ -34,7 +34,7 @@ import {
 
 const navigation = [
   {
-    name: "Dashboard",
+    name: "Dashboard test",
     href: "/dashboard",
     icon: CubeIcon,
     current: true,
